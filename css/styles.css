@@ -966,6 +966,10 @@ img {
 }
 
 /*============================ CHECK POPITICK ==============================================*/
+.modal-policy-text{
+  cursor: pointer;
+}
+
 
 .modal-policy-text::before {
   display: inline-block;
